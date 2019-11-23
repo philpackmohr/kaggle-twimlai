@@ -12,6 +12,7 @@ you can add stuff here, like the challenges:
 
 Here is the high-level agenda for our co-learning meetup next time. If you volunteered for a topic, please prepare a 6-8 minute talk and include what you think we need to know and how it might help us in our competition.
 
+
 * Kaggle Overview
 * Getting Data
 * Environment Setup
