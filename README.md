@@ -18,4 +18,5 @@ Here is the high-level agenda for our co-learning meetup next time. If you volun
 * Environment Setup
 * Pipeline Overview 
 * Formal version control (this here ;-)
+* so far no branching...
 
